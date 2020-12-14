@@ -1,0 +1,42 @@
+{
+  "broadArea": {
+    "name": "",
+    "link": "http://www.vlab.co.in/"
+  },
+  "lab": "Process Loop Components",
+  "deployLab": true,
+  "phase": 3,
+  "collegeName": "COEP",
+  "baseUrl": "plc-coep.vlabs.ac.in",
+  "introduction": "Welcome to the Process Loop Components",
+  "experiments": [
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["B. Tech./ B.E in Electronics and Communications"],
+    "PG": [
+      "MS/Ph. D. Beginners in Electronics and Communications related topics"
+    ]
+  },
+  "objective": "",
+  "courseAlignment": {
+    "description": "The syllabi of this lab aligns to the following universities in India.",
+    "universities": [
+      "I. K. Gujral Punjab Technical University Punjab",
+      "Rajasthan Technical University Rajasthan"
+    ]
+  }
+}
