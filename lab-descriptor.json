@@ -12,161 +12,161 @@
   "experiments": [
     {
       "name": "Size and select a pneumatically operated control valve for a particular application",
-      "short-name": "",
-      "repo": "",
+      "short-name": "pneumatically-operated-control",
+      "repo": "https://github.com/virtual-labs/exp-pneumatically-operated-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the level control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "transmitter-level-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-level-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the temperature control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "transmitter-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-temperature-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the pressure control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "transmitter-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-pressure-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for the flow control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "transmitter-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-transmitter-flow-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for level control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "ip-level-control",
+      "repo": "https://github.com/virtual-labs/exp-ip-level-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for temperature control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "ip-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-ip-temperature-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of I/P converter for pressure control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "ip-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-ip-pressure-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },{
       "name": "Calibration and fault finding of I/P converter for flow control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "ip-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-ip-flow-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for level control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "pe-level-control",
+      "repo": "https://github.com/virtual-labs/exp-pe-level-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for temperature control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "pe-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-pe-temperature-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for pressure control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "pe-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-pe-pressure-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of P/E converter for flow control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "pe-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-pe-flow-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design High/Low selector for interlocking in the process industry for a level loop",
-      "short-name": "",
-      "repo": "",
+      "short-name": "interlocking-level-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-level-loop-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design High/Low selector for interlocking in the process industry for temperature loop",
-      "short-name": "",
-      "repo": "",
+      "short-name": "interlocking-temperature-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-temperature-loop-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design High/Low selector for interlocking in the process industry for pressure loop",
-      "short-name": "",
-      "repo": "",
+      "short-name": "interlocking-pressure-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-pressure-loop-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design High/Low selector for interlocking in the process industry for flow loop",
-      "short-name": "",
-      "repo": "",
+      "short-name": "interlocking-flow-loop",
+      "repo": "https://github.com/virtual-labs/exp-interlocking-flow-loop-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for level control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "annunciator-level-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-level-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for a temperature control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "annunciator-temperature-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-temperature-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for the pressure control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "annunciator-pressure-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-pressure-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator for the flow control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "annunciator-flow-control",
+      "repo": "https://github.com/virtual-labs/exp-annunciator-flow-control-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Estimate the time to fill the tank for the level control system",
-      "short-name": "",
-      "repo": "",
+      "short-name": "time-to-fill-tank",
+      "repo": "https://github.com/virtual-labs/exp-time-to-fill-tank-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Estimate the time to empty the tank for the level control system(Gravity flow)",
-      "short-name": "",
-      "repo": "",
+      "short-name": "time-to-empty-tank",
+      "repo": "https://github.com/virtual-labs/exp-time-to-fill-tank-coep",
       "tag": "v1.0.0",
       "deploy": true
     }
